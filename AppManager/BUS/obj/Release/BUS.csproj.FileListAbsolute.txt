@@ -1,0 +1,11 @@
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\bin\Release\BUS.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\bin\Release\BUS.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\bin\Release\DAO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\bin\Release\DTO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\bin\Release\DAO.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\bin\Release\DTO.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\obj\Release\BUS.csprojAssemblyReference.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\obj\Release\BUS.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\BUS\obj\Release\BUS.pdb

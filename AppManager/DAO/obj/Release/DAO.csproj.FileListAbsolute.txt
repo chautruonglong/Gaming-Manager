@@ -1,0 +1,9 @@
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\bin\Release\DAO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\bin\Release\DAO.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\bin\Release\DTO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\bin\Release\DTO.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\obj\Release\DAO.csproj.CopyComplete
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\obj\Release\DAO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DAO\obj\Release\DAO.pdb

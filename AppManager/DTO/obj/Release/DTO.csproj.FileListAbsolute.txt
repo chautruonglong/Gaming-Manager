@@ -1,0 +1,6 @@
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\bin\Release\DTO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\bin\Release\DTO.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Release\DTO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Release\DTO.pdb

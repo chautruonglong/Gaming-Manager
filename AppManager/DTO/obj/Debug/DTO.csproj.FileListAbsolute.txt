@@ -1,0 +1,12 @@
+C:\Users\chautruonglong\Desktop\AppManager\DTO\bin\Debug\DTO.dll
+C:\Users\chautruonglong\Desktop\AppManager\DTO\bin\Debug\DTO.pdb
+C:\Users\chautruonglong\Desktop\AppManager\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\chautruonglong\Desktop\AppManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\chautruonglong\Desktop\AppManager\DTO\obj\Debug\DTO.dll
+C:\Users\chautruonglong\Desktop\AppManager\DTO\obj\Debug\DTO.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\bin\Debug\DTO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\bin\Debug\DTO.pdb
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Debug\DTO.dll
+D:\University\Nam-2\Ky-2\Do-an-cong-nghe-phan-mem\GamingManager\AppManager\DTO\obj\Debug\DTO.pdb
